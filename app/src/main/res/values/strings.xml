@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Lokasi Cuaca</string>
+    <string name="city">City</string>
+    <string name="icon">Icon</string>
+    <string name="temp">Temp</string>
+    <string name="description">Description</string>
+    <string name="data_not_available">Data tidak tersedia</string>
+    <string name="show_temp">%1$s°C</string>
+    <string name="empty">…</string>
+</resources>
